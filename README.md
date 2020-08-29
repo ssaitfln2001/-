@@ -1,4 +1,4 @@
-# MIUI  刷机包
+# MIUI  刷机包无改过请放心使用
 
 
 
@@ -10,6 +10,10 @@
 
 - 稳定版 Stable
 
+------
+| 名称 | 其它 |
+|:---------------:|:---------------:|
+|Magisk|[历史版本Magisk](https://github.com/ssaitfln2001/millet/blob/master/Magisk/Magisk.md)|
 
 ------
 |        机型        |            开发版卡刷     |         开发版线刷     |     稳定版卡刷       |     稳定版线刷         | 第三方Recovery |
